@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{DataTypes/node_modules}" />
+    <file url="file://$PROJECT_DIR$/../HomeWork1/DataTypes" libraries="{DataTypes/node_modules}" />
+    <file url="file://$PROJECT_DIR$/../Test/DataTypes" libraries="{DataTypes/node_modules}" />
+  </component>
+</project>

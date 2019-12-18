@@ -1,5 +1,11 @@
 'use strict';
 
-const fn = null;
+const fn = function (a) {
+  return a;
+
+};
+
+
+
 
 module.exports = { fn };
